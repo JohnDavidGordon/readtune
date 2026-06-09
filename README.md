@@ -5,7 +5,7 @@ Personalised readability calibration tool.
 
 ReadTune is a personalised readability calibration tool.
 
-Rather than assuming which font, spacing, colours, or layout work best for a reader, ReadTune learns individual preferences through a series of adaptive A B testing.
+Rather than assuming which font, spacing, colours, or layout work best for a reader, ReadTune learns individual preferences through a series of adaptive A/B testing.
 
 Users are shown two versions of the same text and select the version they find easier to read.
 
